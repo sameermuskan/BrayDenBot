@@ -1,7 +1,7 @@
 {
-  "name": "GujjuBot",
-  "description": "Userbot created by a SNAPDRAGON and custom fork by @Halto_Tha\n\n join https://t.me/Gujju_Bot_Support for any problems or support",
-  "logo": "https://telegra.ph/file/5131193c816e303426e32.png",
+  "name": "BrayDenBot",
+  "description": "Userbot created by a BrayDen and custom fork by @BrayDen_1\n\n join https://t.me/BrayDen_Bot_Support for any problems or support",
+  "logo": "https://telegra.ph/file/82dac1d54079ce56dd215.jpg",
   "keywords": [
     "telegram",
     "userbot",
@@ -9,7 +9,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/japarmar/GujjuBot",
+  "repository": "https://github.com/sameermuskan/BrayDenBot",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
