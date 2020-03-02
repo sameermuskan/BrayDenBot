@@ -2,7 +2,7 @@
 #warning use this repo at your own risk
 #click the BrayDen photo below to deploy or the deploy button
 
-[![Deploy](https://telegra.ph/file/82dac1d54079ce56dd215.jpg)](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://telegra.ph/file/82dac1d54079ce56dd215.jpg)](https://www.heroku.com/deploy)
 This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram.
 
 For any query or want to know how it works join
