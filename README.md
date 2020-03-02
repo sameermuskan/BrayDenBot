@@ -2,7 +2,7 @@
 This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram.
 
 For any query or want to know how it works join
-# https://t.me/Gujju_Bot_Support
+# https://t.me/BrayDen_1
 
 # FORK AT YOUR OWN RISK
 # Installing
@@ -15,8 +15,8 @@ For any query or want to know how it works join
 
 Simply clone the repository and run the main file:
 ```sh
-git clone https://github.com/japarmar/GujjuBot
-cd GujjuBot
+git clone https://github.com/sameermuskan/BrayDenBot
+cd BrayDenBot
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
 pip install -r requirements.txt
